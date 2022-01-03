@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @menapertas
-- 👀 I’m interested in data analysis and business intelligece
+- 👀 I’m interested in data science and business intelligece
 - 🌱 I’m currently improving Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... just e-mail at menapertas@gmail.com
